@@ -5,7 +5,7 @@
             "views": {
                 "trial_notification": {
                     "message": "Restano %{trial_days} giorni per la tua prova.",
-                    "add_payment": "Subscribe now to keep using our platform."
+                    "add_payment": "Abbonati ora per usare la nostra piattaforma."
                 }
             }
         }
