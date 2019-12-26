@@ -52,11 +52,11 @@
         }
     },
     "account": {
-        "title": "Your account | CARTO",
+        "title": "Il tuo account | Querycity",
         "flash_messages": {
             "save_changes": {
-                "success": "Your changes have been saved correctly.",
-                "error": "Error updating your account details."
+                "success": "I tuoi cambiamenti sono stati salvati correttamente.",
+                "error": "Si sono verificati errori aggiornando i dettagli del tuo account."
             }
         },
         "views": {
