@@ -61,29 +61,29 @@
         },
         "views": {
             "content": {
-                "form_title": "Edit your plan information"
+                "form_title": "Edita le tue informazioni"
             },
             "form": {
                 "username": "Username",
-                "subdomain_info": "Subdomain cannot be changed",
-                "old_password": "Old password",
-                "new_password": "New password",
-                "confirm_password": "Confirm password",
-                "account_type": "Account type",
-                "billing_plan": "Your billing plan",
-                "license_expiration": "License expiration",
-                "license_renew_info": "To renew it, please contact <a href=mailto:sales@carto.com>sales@carto.com</a>",
-                "view_details": "View details",
+                "subdomain_info": "Suttodominio non può essere cambiato",
+                "old_password": "Vecchia password",
+                "new_password": "Nuova password",
+                "confirm_password": "Conferma la password",
+                "account_type": "Tipo di Account",
+                "billing_plan": "Il tuo abbonamento",
+                "license_expiration": "Scadenza licenza",
+                "license_renew_info": "Per rinnovare, contattaci al <a href=mailto:nicoaliotta@gmail.com>nicoaliotta@gmail.com</a>",
+                "view_details": "Vedi dettagli",
                 "multifactor_authentication": "Multi-factor authentication",
-                "mfa_enabled": "Enabled",
-                "mfa_disabled": "Disabled",
+                "mfa_enabled": "Abilitato",
+                "mfa_disabled": "Disabilitato",
                 "mfa_description": "Add an additional layer of security to your account to protect all data you store in CARTO. If you change the actual status you will be logged out and redirected to the login page",
                 "connect_external_datasources": "Connect to external data sources",
-                "save_changes": "Save changes",
-                "delete_account": "Delete account",
-                "confirm": "Are you sure?",
-                "delete_all": "Delete my account and all my data",
-                "email_google": "Your account is linked to your Google account.",
+                "save_changes": "Salva cambiamenti",
+                "delete_account": "Cancella account",
+                "confirm": "Sei sicuro?",
+                "delete_all": "Cancella il mio account e tutti i miei dati",
+                "email_google": "Il tuo account é collegato al tuo account Google.",
                 "errors": {
                     "change_email": "You can change the email if you set a password."
                 }
