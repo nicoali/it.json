@@ -4,7 +4,7 @@
         "trial_notification": {
             "views": {
                 "trial_notification": {
-                    "message": "%{trial_days} days left in your trial.",
+                    "message": "Restano %{trial_days} giorni per la tua prova.",
                     "add_payment": "Subscribe now to keep using our platform."
                 }
             }
@@ -13,21 +13,21 @@
     "show": {
         "title": "Editor",
         "header": {
-            "data_view": "Data View",
-            "map_view": "Map View",
-            "back": "Back",
-            "edit_metadata": "Edit metadata...",
-            "edit": "Edit",
-            "visualize": "VISUALIZE"
+            "data_view": "Dati",
+            "map_view": "Mappe",
+            "back": "Dietro",
+            "edit_metadata": "Edita i metadati...",
+            "edit": "Edita",
+            "visualize": "VISUALIZZA"
         }
     },
     "protected_map": {
-        "title": "Protected map",
+        "title": "Mappa protetta",
         "content": {
-            "header": "This map is password protected",
-            "placeholder": "Insert your password here",
-            "tip": "Contact the owner if you need to access this map.",
-            "error": "Invalid password"
+            "header": "Questa mappa é protetta da una password",
+            "placeholder": "Inserisci la tua password",
+            "tip": "Contatta il proprietario se vuoi accedere alla mappa.",
+            "error": "Password non valida"
         }
     },
     "forbidden_map": {
@@ -35,7 +35,7 @@
     },
     "helpers": {
         "static_header_meta_tags": {
-            "map_created_by": "Map created by %{author} - CARTO"
+            "map_created_by": "Mappa creata da %{author} - Querycity"
         }
     },
     "public_map": {
@@ -43,8 +43,8 @@
             "more": "more",
             "more_from": "More from",
             "more_info": "More info",
-            "updated": "Updated",
-            "views_pluralize": "1 view |||| %{smart_count} views"
+            "updated": "Aggiornata",
+            "views_pluralize": "1 visualizzazione |||| %{smart_count} visualizzazioni"
         },
         "datasets": {
             "title": "Datasets in use",
