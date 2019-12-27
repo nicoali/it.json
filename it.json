@@ -77,8 +77,8 @@
                 "multifactor_authentication": "Multi-factor authentication",
                 "mfa_enabled": "Abilitato",
                 "mfa_disabled": "Disabilitato",
-                "mfa_description": "Add an additional layer of security to your account to protect all data you store in CARTO. If you change the actual status you will be logged out and redirected to the login page",
-                "connect_external_datasources": "Connect to external data sources",
+                "mfa_description": "Add an additional layer of security to your account to protect all data you store in Querycity. If you change the actual status you will be logged out and redirected to the login page",
+                "connect_external_datasources": "Collegati ad una sorgente dati esterna",
                 "save_changes": "Salva cambiamenti",
                 "delete_account": "Cancella account",
                 "confirm": "Sei sicuro?",
@@ -122,7 +122,7 @@
                 "disqus_notified": "Ricevi notifiche se ci sono nuovi commenti nelle tue pagine",
                 "jobs": "Profilo lavoro",
                 "available_for_hire": "Disponibile per assunzione",
-                "show_banner": "Show a banner in your public profile linked to your email",
+                "show_banner": "Mostra un banner nel tuo probilo pubblico collegato alla tua email",
                 "your_url": "Il tuo URL",
                 "save": "Salva i cambiamenti",
                 "errors": {
@@ -137,28 +137,28 @@
     "edit-map": "Edita la mappa",
     "map-settings": "Map options",
     "more-options": "More options",
-    "change-privacy": "Change map privacy",
+    "change-privacy": "Cambia la privacy della mappa",
     "sql-applied": "SQL query applied",
     "data-source": "Data source",
     "edit-analysis": "Edit analysis",
     "add-analysis": "Add new analysis node",
-    "back-layers": "Back to the Layers list",
+    "back-layers": "Torna alla lista dei Layers",
     "user": {
-        "you": "You"
+        "you": "Tu"
     },
     "months": {
-        "january": "January",
-        "february": "February",
-        "march": "March",
-        "april": "April",
-        "may": "May",
-        "june": "June",
-        "july": "July",
-        "august": "August",
-        "september": "September",
-        "october": "October",
-        "november": "November",
-        "december": "December"
+        "january": "Gennaio",
+        "february": "Febbraio",
+        "march": "Marzo",
+        "april": "Aprile",
+        "may": "Maggio",
+        "june": "Giugno",
+        "july": "Luglio",
+        "august": "Agosto",
+        "september": "Settembre",
+        "october": "Ottobre",
+        "november": "Novembre",
+        "december": "Dicembere"
     },
     "assets": {
         "maki-icons": {
@@ -166,46 +166,46 @@
         }
     },
     "operators": {
-        "count": "COUNT",
-        "sum": "SUM",
-        "avg": "AVG",
+        "count": "CONTA",
+        "sum": "SOM",
+        "avg": "MED",
         "min": "MIN",
         "max": "MAX"
     },
     "builder-activated-notification": {
-        "message": "CARTO Builder has been activated in your account. <a href='https://carto.com/learn/guides' class='onboardingNotification-link'>Learn more</a> about it and let us know what you think or <a href='mailto:builder-support@carto.com' class='onboardingNotification-link'>contact us</a>. Happy mapping!"
+        "message": "QueryCity Builder è stato attivato nel tuo account. <a href='https://carto.com/learn/guides' class='onboardingNotification-link'>Learn more</a> about it and let us know what you think or <a href='mailto:builder-support@carto.com' class='onboardingNotification-link'>contact us</a>. Happy mapping!"
     },
     "builder-onboarding": {
-        "title": "Welcome to Builder,",
-        "description": "Discover the new and exciting analyses you can perform with location intelligence.",
-        "take-tour": "Take a tour",
-        "edit-map": "Edit your map",
+        "title": "Benvenuto a QueryCity,",
+        "description": "Scopri le nuove analisi che puoi fare con la location intelligence.",
+        "take-tour": "Fai un tour",
+        "edit-map": "Edita la tua mappa",
         "toolbar": {
             "title": "Toolbar",
             "description": "The toolbar provides options to access your dashboard, edit your map, and configure its settings."
         },
         "configurator": {
-            "title": "Edit mode",
+            "title": "Modalita Edita",
             "description": "Manage all the components of your map: add layers and widgets, import datasets, customize analyses, and change styles."
         },
         "map": {
-            "title": "Map",
+            "title": "Mappa",
             "description": "Your map reflects changes instantly."
         },
         "widgets": {
-            "title": "Widgets list",
+            "title": "Lista dei Widget",
             "description": "The widgets you add to your map appear directly on your visualization."
         },
         "skip": "skip",
         "next": "next"
     },
     "data-onboarding": {
-        "title": "Welcome to the Layers list",
+        "title": "Benvenuto alla lista dei Layer",
         "description": "Analyze, style, and enhance your data with pop-ups and&nbsp;legends.",
-        "take-tour": "Take the tour",
-        "edit-layer": "Edit layer",
+        "take-tour": "Fai un tour",
+        "edit-layer": "Edita layer",
         "layer-options": {
-            "title": "Layer options",
+            "title": "Opzioni Layer",
             "description": "Layers can be renamed by double-clicking on the layer name, centered by clicking in the crosshair, and exported through their contextual menu."
         },
         "data-tab": {
@@ -221,8 +221,8 @@
             "description": "You can switch between map or data view. In map view, you can add points, lines, and polygons.",
             "edit-layer": "Edit layer"
         },
-        "exit": "Exit tour",
-        "next": "Next"
+        "exit": "Esci dal tour",
+        "next": "Avanti"
     },
     "analysis-onboarding": {
         "title": "The Art of Analysis",
@@ -233,8 +233,8 @@
             "item3": "The original data is not modified by the analysis workflow.",
             "item4": "Some analysis queries add calculated results to columns in your dataset."
         },
-        "done": "Done",
-        "add-analysis": "Add analysis"
+        "done": "Fatto",
+        "add-analysis": "Aggiumgi analisi"
     },
     "style-onboarding": {
         "title": "Style this map!",
