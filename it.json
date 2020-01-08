@@ -140,8 +140,8 @@
     "change-privacy": "Cambia la privacy della mappa",
     "sql-applied": "SQL query applied",
     "data-source": "Data source",
-    "edit-analysis": "Edit analysis",
-    "add-analysis": "Add new analysis node",
+    "edit-analysis": "Edita analisi",
+    "add-analysis": "Aggiungi nuove analisi",
     "back-layers": "Torna alla lista dei Layers",
     "user": {
         "you": "Tu"
@@ -190,7 +190,7 @@
         },
         "map": {
             "title": "Mappa",
-            "description": "Your map reflects changes instantly."
+            "description": "La tua mappa si aggiorna instantaneamente."
         },
         "widgets": {
             "title": "Lista dei Widget",
