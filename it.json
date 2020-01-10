@@ -41,14 +41,14 @@
     "public_map": {
         "info": {
             "more": "more",
-            "more_from": "More from",
-            "more_info": "More info",
+            "more_from": "Altre da",
+            "more_info": "Maggiori info",
             "updated": "Aggiornata",
             "views_pluralize": "1 visualizzazione |||| %{smart_count} visualizzazioni"
         },
         "datasets": {
-            "title": "Datasets in use",
-            "dataset_pluralize": "1 dataset |||| %{smart_count} datasets"
+            "title": "Set dati in uso",
+            "dataset_pluralize": "1 set dati |||| %{smart_count} datasets"
         }
     },
     "account": {
@@ -85,7 +85,7 @@
                 "delete_all": "Cancella il mio account e tutti i miei dati",
                 "email_google": "Il tuo account é collegato al tuo account Google.",
                 "errors": {
-                    "change_email": "You can change the email if you set a password."
+                    "change_email": "Puoi cambiare email se setti una password."
                 }
             }
         }
@@ -109,15 +109,15 @@
                 "viewer": "VIEWER",
                 "read_only": "Accesso ai datasets e mappe in sola lettura",
                 "builder": "BUILDER",
-                "become_builder": "Diventa a Builder",
+                "become_builder": "Diventa un utente Builder",
                 "write_access": "Edita e crea datasets e mappe",
                 "name": "Nome",
-                "info_public_name": "Other users would reach you by your public name",
+                "info_public_name": "Altri utenti potrebbero raggiungerti attraverso il tuo profilo pubblico",
                 "website": "Sito web",
                 "location": "Luogo",
                 "description": "Tua descrizione",
-                "twitter": "Twitter username",
-                "disqus": "Disqus nickname",
+                "twitter": "Username Twitter",
+                "disqus": "nickname",
                 "disqus_placeholder": "Se vuoto, non apparirà",
                 "disqus_notified": "Ricevi notifiche se ci sono nuovi commenti nelle tue pagine",
                 "jobs": "Profilo lavoro",
@@ -132,14 +132,14 @@
         }
     },
     "feedback": "Dacci feedback!",
-    "back": "Back",
+    "back": "Dietro",
     "back-to-dashboard": "Torna alla dashboard",
     "edit-map": "Edita la mappa",
-    "map-settings": "Map options",
-    "more-options": "More options",
+    "map-settings": "Opzioni mappa",
+    "more-options": "Più opzioni",
     "change-privacy": "Cambia la privacy della mappa",
-    "sql-applied": "SQL query applied",
-    "data-source": "Data source",
+    "sql-applied": "SQL query applicata",
+    "data-source": "Sorgente dati",
     "edit-analysis": "Edita analisi",
     "add-analysis": "Aggiungi nuove analisi",
     "back-layers": "Torna alla lista dei Layers",
@@ -173,7 +173,7 @@
         "max": "MAX"
     },
     "builder-activated-notification": {
-        "message": "QueryCity Builder è stato attivato nel tuo account. <a href='https://carto.com/learn/guides' class='onboardingNotification-link'>Learn more</a> about it and let us know what you think or <a href='mailto:builder-support@carto.com' class='onboardingNotification-link'>contact us</a>. Happy mapping!"
+        "message": "QueryCity Builder è stato attivato nel tuo account. <a href='https://query.city/learn/guides' class='onboardingNotification-link'>Informati</a> o faccia sapere la tua opinione <a href='mailto:info@query.city' class='onboardingNotification-link'>contattaci</a>. Happy mapping!"
     },
     "builder-onboarding": {
         "title": "Benvenuto a QueryCity,",
@@ -182,10 +182,10 @@
         "edit-map": "Edita la tua mappa",
         "toolbar": {
             "title": "Toolbar",
-            "description": "The toolbar provides options to access your dashboard, edit your map, and configure its settings."
+            "description": "La toolbar ti da opzioni per accedere alla tua dashboard, editare la tua mappa, e configurare le impostazioni."
         },
         "configurator": {
-            "title": "Modalita Edita",
+            "title": "Modalità Edita",
             "description": "Manage all the components of your map: add layers and widgets, import datasets, customize analyses, and change styles."
         },
         "map": {
