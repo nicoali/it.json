@@ -186,7 +186,7 @@
         },
         "configurator": {
             "title": "Modalità Edita",
-            "description": "Manage all the components of your map: add layers and widgets, import datasets, customize analyses, and change styles."
+            "description": "Gestisci tutti i componenti della tua mappa: aggiungi layer e widget, importa set di dati, personalizza analisi e cambia stili."
         },
         "map": {
             "title": "Mappa",
@@ -194,10 +194,10 @@
         },
         "widgets": {
             "title": "Lista dei Widget",
-            "description": "The widgets you add to your map appear directly on your visualization."
+            "description": "I widget aggiunti alla mappa vengono visualizzati istantaneamente."
         },
-        "skip": "skip",
-        "next": "next"
+        "skip": "salta",
+        "next": "prossima"
     },
     "data-onboarding": {
         "title": "Benvenuto alla lista dei Layer",
@@ -218,14 +218,14 @@
         },
         "add-geometry": {
             "title": "Add geometries and switch to dataset view",
-            "description": "You can switch between map or data view. In map view, you can add points, lines, and polygons.",
-            "edit-layer": "Edit layer"
+            "description": "Puoi passare dalla visualizzazione della mappa a quella dei dati. Nella vista mappa, puoi aggiungere punti, linee e poligoni.",
+            "edit-layer": "Edita il layer"
         },
         "exit": "Esci dal tour",
         "next": "Avanti"
     },
     "analysis-onboarding": {
-        "title": "The Art of Analysis",
+        "title": "Le Analisi",
         "description": "Build reproducible workflows for analyzing and explaining your data. Analyses turn your maps into Location Intelligence apps.",
         "description-list": {
             "item1": "Different analyses can be chained",
