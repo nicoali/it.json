@@ -206,11 +206,11 @@
         "edit-layer": "Edita layer",
         "layer-options": {
             "title": "Opzioni Layer",
-            "description": "Layers can be renamed by double-clicking on the layer name, centered by clicking in the crosshair, and exported through their contextual menu."
+            "description": "I Layer possono essere rinominati cliccando due volte sul nome del layer, centrati facendo clic nel mirino ed esportati attraverso il loro menu contestuale."
         },
         "data-tab": {
             "title": "Data tab",
-            "description": "Style, add analysis, pop-ups, and legends to layers. To further explore your data, add widgets."
+            "description": "Stilizza, aggiungi analisi, pop-up, e legende ai layer. Per visualizzare al meglio i tuoi dati usa i widget."
         },
         "sql-editor": {
             "title": "SQL View",
